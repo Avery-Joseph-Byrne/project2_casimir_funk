@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project2-casimir-funk-306520",
+  "private_key_id": "fa74c0a3b8dd53d16a03f17155d064710a47a020",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDhOiS6zJZMTBUV\nfpjVcer+Q2kqPksrRTG3TwoOZTu9j9c8VCvZ1EQPCbbCuejMHpMnFOI1AK8S73XE\nnTlVRpEzHdrKK8GnvXmyFca29CgvYeVz6IU04R1CdjVRdAiduWP9Fn7Ih2dzIi5s\nrvOuD8bqUMoiFI0/i2UkUvfmDHzmX9/uak4eGkCMqX3wzvKkTgyqhENK40YjkGQb\nnsRAQETxarAVqyWz797rg5bNNCwViNu2uqvGSOHJwbfOVq2QiYU2wPbXMQ4bZV1a\nk842GqGT/Pn+LFUaxZaDNOlNjbrZ+kfknFbfsqOcwjaV17o0fxCChJ7+q0KxJ3Tx\nxQxvfBLDAgMBAAECgf8DYFHozhkA6Mla/0kw+T4ue7NkdmEF/NNqcYVs3ZRYo2Qn\nAkWUgaUG0fKyhs63H8tWj5COgw1GYsa4sUbGGIyK0vlAJHt4TBRxD1IZN35B5p7P\n8jzJIL4oKNQtoawavk6gluF/zOgZzVw+ghrfBpQ4m9g7ud6hc1BL5/Suj6i/P0cF\nh7XP6dVvDaqJ+fsAw3TfT/jcbydWCTsLegWqu5SFRKsO3gOw2tCUiInlwdmiKxW7\nfPtg+zuKnhZx5hmxYUBiJTO9yaeKoYW/A4M+W2Ppq3PwJpI7BKR5N5602oBpNhGe\n/Bh8hoquPPP97MuDcmsFD9LgS4/WEOzmaBm0k2ECgYEA8SNZrFb7UPQMxFXKou53\n97WEViUxcPZr2C8rDviyOKNLmn4YBUaQxYGCnBZc4CJKjAx1uTZ0ydynTS3EnF61\np92Ivt50RNP9slZ+yNMBei1sUSZNXWX0jIhyvGEXgO24B+JN96CZpr/wb6j8Ekm/\nmWOiDoyLPoyPbe0DpHF8lvMCgYEA7xvAdLV3jlBSNSe8mX1dWANGK7I3aDUDTYMd\nI29IioQjBqqXac8LMpBbr8pxikL53WrzqDA1SNxN89wyZXIlr5BH5XJKAf9XbV7j\n07lVf3Q8ZqOixAyloDQCEhVJjugKS8UlZ7nc9D2cGaZPXHyIvOd/iJxeBaSb9VJi\nKTb0KPECgYANV3FcsatR/U6/hieiACOvFuHtij1EDL5GxcVSHLxvmclTEOrvT8ou\nw02gqTQWSo9pVD8nMjYf/Q9cm82nAS53zTAFr3UrYbdFqLd3EQWh5uV5T+8z3bI8\nHEiM16pfPcfS19iMfNxDd5cr9mOL93ycVgDfYTNLEKfW4ygybvz/tQKBgQDh+zWK\nWBN1Yj4/1J1v50b4Lqf8FkQ9bZUAhgFdAwjpOPctjr7plm97y2mMG+XxCVnDRRih\nhWZmxSe7aQoMTLSHV/JLTRfbCWukh4EFEm1WtxF64/6qEVXbsiue0ZWixXUtpVaz\n0Lqd7ziAGWl5/IzzFEu5XieSZ7+qPMFfOHvL0QKBgQDfsdKFb98vPYnVSa7dBU5l\ncsnDED9AC3Am6xOQWj9NsitPGc5t16MruesBPG1tM0wGarFTaUyXdB3F639RvbCi\nWVsSAifViLiu25RxmrWb2gXTSsj+rpw3W+RKOo5Vw1L+ZMY9M7n3WR6lhCm/mdFC\nw+Jo8Uoz1/2GFIX0vD/1Xw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-project2-casimir-funk@project2-casimir-funk-306520.iam.gserviceaccount.com",
+  "client_id": "116482765611039161027",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-project2-casimir-funk%40project2-casimir-funk-306520.iam.gserviceaccount.com"
+}
